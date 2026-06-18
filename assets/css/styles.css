@@ -49,6 +49,13 @@ p, h1, h2, h3, h4, h5, h6 {
   text-shadow: 4px 4px 6px rgba(0,0,0,.75);
 }
 
+  .main h1 strong {
+    font-size: 150px;
+    color: white;
+    margin-right: -.5em;
+  }
+
+
 .main h2 {
   font: normal 3.16em "slabo 27px", Garamond, Times, serif;
   color: rgb(37,76,143);
